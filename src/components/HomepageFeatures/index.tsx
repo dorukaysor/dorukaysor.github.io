@@ -22,6 +22,7 @@ const FeatureList: FeatureItem[] = [
       </Link>
     ),
   },
+  /**
   {
     title: 'Guides',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
@@ -33,6 +34,7 @@ const FeatureList: FeatureItem[] = [
       </Link>
     ),
   },
+  */
   {
     title: 'References',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
@@ -48,7 +50,7 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({title, Svg, description}: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--6')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>

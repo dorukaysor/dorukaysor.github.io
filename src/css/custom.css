@@ -28,3 +28,21 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Footer customization */
+.footer {
+  padding: 10px 0;
+  line-height: 1.5;
+  border-top: 1px solid #333;
+  background-color: #000;
+}
+
+.footer__copyright {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+/* Sidebar customization */
+.hiddenPage {
+  display: none !important;
+}

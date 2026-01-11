@@ -32,13 +32,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
+          sidebarCollapsible: true,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -51,6 +45,12 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
+    },
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true,
+      },
     },
     navbar: {
       title: 'Labs',

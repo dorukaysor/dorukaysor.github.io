@@ -33,8 +33,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Labs`}
-      description="Welcome to the Nazethan Labs!">
+      title="Labs"
+      description="Welcome to the Labs!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
