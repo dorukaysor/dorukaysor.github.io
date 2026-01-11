@@ -17,13 +17,6 @@ function HomepageHeader() {
           Nazethan / Labs
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="https://github.com/nazethan/labs">
-            Visit the repo
-          </Link>
-        </div>
       </div>
     </header>
   );
