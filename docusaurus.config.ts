@@ -21,10 +21,6 @@ const config: Config = {
   projectName: 'nazethan.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
 
   presets: [
     [
