@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <Link
         className="button button--primary button--lg"
-        to="/docs/guides/">
+        to="https://dorukaysor.github.io/errors/404">
         Explore
       </Link>
     ),
@@ -39,7 +39,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <Link
         className="button button--primary button--lg"
-        to="/docs/references/">
+        to="https://dorukaysor.github.io/errors/404>
         Explore
       </Link>
     ),
