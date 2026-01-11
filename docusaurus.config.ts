@@ -48,7 +48,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
@@ -61,12 +60,19 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          label: 'Records',
           position: 'left',
-          label: 'Tutorial',
+          type: 'docSidebar',
+          sidebarId: 'records_sidebar',
         },
-        {to: '/docs/guides/index', label: 'Guides', position: 'left'},
+        /**
+        {
+          label: 'Guides',
+          position: 'left',
+          type: 'docSidebar',
+          sidebarId: 'guides_sidebar',
+        },
+        */
         {
           href: 'https://github.com/nazethan/labs',
           label: 'GitHub',
