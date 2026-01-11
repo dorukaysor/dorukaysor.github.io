@@ -63,6 +63,14 @@ const config: Config = {
         },
         /**
         {
+          label: 'Dev',
+          position: 'left',
+          type: 'docSidebar',
+          sidebarId: 'dev_sidebar',
+        },
+        */
+        /**
+        {
           label: 'Guides',
           position: 'left',
           type: 'docSidebar',

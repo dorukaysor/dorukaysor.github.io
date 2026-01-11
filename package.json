@@ -1,6 +1,6 @@
 {
-  "name": "dez",
-  "version": "0.0.0",
+  "name": "labs",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",

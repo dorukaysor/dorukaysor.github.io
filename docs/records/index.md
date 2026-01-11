@@ -2,6 +2,7 @@
 title: Records
 hide_table_of_contents: true
 displayed_sidebar: null
+
 pagination_prev: null
 pagination_next: null
 ---
