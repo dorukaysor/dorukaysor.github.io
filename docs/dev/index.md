@@ -1,9 +1,16 @@
 ---
 title: Development Dashboard
+sidebar_label: Dashboard
+
 displayed_sidebar: dev_sidebar
+hide_table_of_contents: true
+
+pagination_next: null
+pagination_prev: null
 ---
 
 | Development Files | URL |
 | :---------------- | :-: |
-| DBMS Lab • Records | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](dbms/) |
-| Operating Systems Lab • Records | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=linux&logoColor=fff)](os/) |
+| OS Lab | [![rec](https://img.shields.io/badge/os_dev-%23000000.svg?style=for-the-badge&logo=linux&logoColor=fff)](dev/os/) |
+| DBMS Lab | [![rec](https://img.shields.io/badge/dbms_dev-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](dev/dbms/) |
+| CN Lab | _ |

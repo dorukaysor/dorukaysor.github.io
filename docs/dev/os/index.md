@@ -1,5 +1,10 @@
 ---
 title: OS Index • Records
+sidebar_label: Records
+displayed_sidebar: dev_sidebar
+
+pagination_prev: null
+pagination_next: null
 ---
 
 <details>

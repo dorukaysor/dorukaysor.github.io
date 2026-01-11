@@ -79,20 +79,19 @@ const config: Config = {
         */
         {
           href: 'https://github.com/nazethan/labs',
-          label: 'GitHub',
           position: 'right',
+          label: 'GitHub',
         },
         {
-          icon: 'fab fa-discord',
-          href: 'https://discord.gg/___',
-          label: 'Discord',
+          href: 'https://discord.gg/FHBc4NeGT5',
           position: 'right',
+          label: 'Discord',
         }
       ],
     },
     footer: {
       style: 'dark',
-      copyright: `&copy; ${new Date().getFullYear()} All Rights Reserved &bull; Built with &hearts;`,
+      copyright: `&copy; ${new Date().getFullYear()} All Rights Reserved &bull; Built with <a href="/docs/dev">&hearts;</a>`,
     },
     prism: {
       theme: prismThemes.github,

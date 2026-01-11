@@ -16,7 +16,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <Link
-        className="button button--primary button--lg"
+        className="button button--secondary button--lg"
         to="/docs/records/">
         Explore
       </Link>
@@ -40,7 +40,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <Link
-        className="button button--primary button--lg"
+        className="button button--secondary button--lg"
         to="https://github.com/nazethan/labs/">
         Explore
       </Link>
