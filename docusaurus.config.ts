@@ -1,0 +1,94 @@
+import {themes as prismThemes} from 'prism-react-renderer';
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
+
+// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+
+const config: Config = {
+  title: 'Labs',
+  tagline: 'Welcome to the Labs!',
+  favicon: 'img/favicon.ico',
+
+  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
+  future: {
+    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+  },
+
+  url: 'https://nazethan.github.io',
+  baseUrl: '/',
+
+  organizationName: 'nazethan', // Usually your GitHub org/user name.
+  projectName: 'nazethan.github.io', // Usually your repo name.
+
+  onBrokenLinks: 'throw',
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  presets: [
+    [
+      'classic',
+      {
+        docs: {
+          sidebarPath: './sidebars.ts',
+        },
+        blog: {
+          showReadingTime: true,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+        },
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      } satisfies Preset.Options,
+    ],
+  ],
+
+  themeConfig: {
+    // Replace with your project's social card
+    image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      respectPrefersColorScheme: true,
+    },
+    navbar: {
+      title: 'Labs',
+      logo: {
+        alt: 'Logo',
+        src: 'img/logo.svg',
+      },
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Tutorial',
+        },
+        {to: '/docs/guides/index', label: 'Guides', position: 'left'},
+        {
+          href: 'https://github.com/nazethan/labs',
+          label: 'GitHub',
+          position: 'right',
+        },
+        {
+          icon: 'fab fa-discord',
+          href: 'https://discord.gg/___',
+          label: 'Discord',
+          position: 'right',
+        }
+      ],
+    },
+    footer: {
+      style: 'dark',
+      copyright: `&copy; ${new Date().getFullYear()} All Rights Reserved &bull; Built with &hearts;`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  } satisfies Preset.ThemeConfig,
+};
+
+export default config;
