@@ -52,7 +52,7 @@ const config: Config = {
       title: 'Labs',
       logo: {
         alt: 'Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
