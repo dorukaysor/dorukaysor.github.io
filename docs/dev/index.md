@@ -11,6 +11,6 @@ pagination_prev: null
 
 | Development Files | URL |
 | :---------------- | :-: |
-| OS Lab | [![rec](https://img.shields.io/badge/os_dev-%23000000.svg?style=for-the-badge&logo=linux&logoColor=fff)](dev/os/) |
-| DBMS Lab | [![rec](https://img.shields.io/badge/dbms_dev-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](dev/dbms/) |
+| OS Lab | [![rec](https://img.shields.io/badge/os_dev-%23000000.svg?style=for-the-badge&logo=linux&logoColor=fff)](os/) |
+| DBMS Lab | [![rec](https://img.shields.io/badge/dbms_dev-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](dbms/) |
 | CN Lab | _ |
