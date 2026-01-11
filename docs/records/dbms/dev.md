@@ -1,17 +1,9 @@
 ---
-title: DEV_INDEX
+title: Dev Index
 sidebar_class_name: hiddenPage # hide this page from the sidebar
-hide_title: true
 pagination_prev: null
 pagination_next: null
 ---
-
-<div align="center">
-  <h2><b>Database Management Lab</b></h2>
-  
-  > [![actual index](https://img.shields.io/badge/view_the_index-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](./contents)
-
-</div>
 
 <details>
   <summary><b>Important</b></summary>
