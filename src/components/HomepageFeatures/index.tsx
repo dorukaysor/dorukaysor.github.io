@@ -36,12 +36,12 @@ const FeatureList: FeatureItem[] = [
   },
   */
   {
-    title: 'References',
+    title: 'Github Repo',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <Link
         className="button button--primary button--lg"
-        to="https://dorukaysor.github.io/errors/404">
+        to="https://github.com/nazethan/labs/">
         Explore
       </Link>
     ),
