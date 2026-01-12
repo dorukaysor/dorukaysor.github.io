@@ -24,6 +24,9 @@ pagination_next: null
 
 <br />
 
+<details>
+  <summary><b>Depricated List of Experiments</b></summary>
+
 ### **U1 • DBMS Lab: Installation & Basic Operations**
 | Sl.No. | Aim of the Experiment | URL |
 | :---:  | :-------------------- | :-: |
@@ -92,3 +95,17 @@ pagination_next: null
 | `_` | To create user accounts and assign privileges in SQL | _ |
 | `_` | To implement basic database security measures using roles and permissions | _ |
 | `_` | To perform backup and recovery operations in SQL | _ |
+
+</details>
+
+
+| Sl.No. | Aim of the Experiment | URL |
+| :---:  | :-------------------- | :-: |
+| `1` | To install and explore MySQL database management system | Published |
+| `2` | To create a basic database & perform simple operations(create, use, drop) | _ |
+| `3` | To study and implement various data types in SQL | _ |
+| `4` | To study and implement various data constraints in SQL | _ |
+| `5` | To write SQL queries for table creation and modification(create, alter, rename, truncate, drop) | _ |
+| `6` | To write SQL queries for data insertion and deletion | _ |
+| `7` | To write SQL queries for data updating | _ |
+| `8` | To write SQL queries for aggregation functions in SQL | _ |
