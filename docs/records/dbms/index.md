@@ -12,20 +12,21 @@ pagination_prev: null
 
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :----: | :------------------- | :-: | :-: | :--: |
-| `1`    | Installation and exploration of MySQL database management system | [![rec](https://img.shields.io/badge/exp_01-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](01) | `__/__/____` | `__/__/____` |
-| `2`    | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/exp_02-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](02) | `__/__/____` | `__/__/____` |
-| `3`    | To write SQL queries for table creation and modification | [![rec](https://img.shields.io/badge/exp_03-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](03) | `__/__/____` | `__/__/____` |
-| `4`    | To study and implement various data constraints in SQL | [![rec](https://img.shields.io/badge/exp_04-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](04) | `__/__/____` | `__/__/____` |
-| `5`    | To write SQL queries for table creation and modification | [![rec](https://img.shields.io/badge/exp_05-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](05) | `__/__/____` | `__/__/____` |
-| `6`    | To write SQL queries for data insertion and deletion | [![rec](https://img.shields.io/badge/exp_06-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](06) | `__/__/____` | `__/__/____` |
+| `1`    | Installation and exploration of MySQL database management system | [![rec](https://img.shields.io/badge/exp_01-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](01) | `23/12/2025` | `25/12/2025` |
+| `2`    | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/exp_02-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](02) | `25/12/2025` | `30/12/2025` |
+| `3`    | To write SQL queries for table creation and modification | [![rec](https://img.shields.io/badge/exp_03-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](03) | `30/12/2025` | `01/01/2026` |
+| `4`    | To study and implement various data constraints in SQL | [![rec](https://img.shields.io/badge/exp_04-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](04) | `01/01/2026` | `06/01/2026` |
+
 ---
 
 <details>
   <summary><b>Unpublished Experiments</b></summary>
 
-| Sl.No. | Aim of the Experiment | URL |
-| :---:  | :-------------------- | :-: |
-| `7` | To write SQL queries for data updating | _ |
-| `8` | To write SQL queries for aggregation functions in SQL | _ |
+| Sl.No. | Aim of the Experiment | URL | DOE | DOS |
+| :---:  | :-------------------- | :-: | :-: | :-: |
+| `5` | To study and implement various data constraints in SQL | _ | `06/01/2026` | `08/01/2026` | 
+| `6` | To write SQL queries for data insertion and deletion | _ | `__/__/____` | `__/__/____` |
+| `7` | To write SQL queries for data updating | _ | `__/__/____` | `__/__/____` |
+| `8` | To write SQL queries for aggregation functions in SQL | _ | `__/__/____` | `__/__/____` |
 
 </details>
