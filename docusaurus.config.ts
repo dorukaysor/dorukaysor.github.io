@@ -14,12 +14,11 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://nazethan.github.io',
+  url: 'https://dorukaysor.github.io',
   baseUrl: '/',
 
-  organizationName: 'nazethan', // Usually your GitHub org/user name.
-  projectName: 'nazethan.github.io', // Usually your repo name.
-
+  organizationName: 'dorukaysor', // Usually your GitHub org/user name.
+  projectName: 'dorukaysor.github.io', // Usually your repo name.
   onBrokenLinks: 'throw',
 
   presets: [
