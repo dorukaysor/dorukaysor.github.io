@@ -12,8 +12,8 @@ pagination_prev: null
 
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :----: | :------------------- | :-: | :-: | :--: |
-| `1`    | Installation and exploration of MySQL database management system | [![rec](https://img.shields.io/badge/exp_01-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](01) | `23/12/2025` | `25/12/2025` |
-| `2`    | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/exp_02-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](02) | `25/12/2025` | `30/12/2025` |
+| `1`    | To Install of MySQL database management system | [![rec](https://img.shields.io/badge/exp_01-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](01) | `23/12/2025` | `25/12/2025` |
+| `2`    | To create a basic database and perform simple operations | [![rec](https://img.shields.io/badge/exp_02-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](02) | `25/12/2025` | `30/12/2025` |
 | `3`    | To write SQL queries for table creation and modification | [![rec](https://img.shields.io/badge/exp_03-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](03) | `30/12/2025` | `01/01/2026` |
 | `4`    | To study and implement various data constraints in SQL | [![rec](https://img.shields.io/badge/exp_04-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](04) | `01/01/2026` | `06/01/2026` |
 
