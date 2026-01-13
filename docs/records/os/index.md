@@ -1,5 +1,5 @@
 ---
-title: INDEX
+title: Contents
 hide_title: true
 hide_table_of_contents: true
 sidebar_position: 1
@@ -15,7 +15,7 @@ No updates yet!
 
 
 <details>
-  <summary><b>Unpublished Experiments</b></summary>
+  <summary><b>See what's coming next!</b></summary>
 
 | Sl.No. | Aim of the Experiment | URL |
 | :---:  | :-------------------- | :-: |

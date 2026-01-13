@@ -1,5 +1,5 @@
 ---
-title: INDEX
+title: Contents
 hide_title: true
 hide_table_of_contents: true
 sidebar_position: 1
@@ -22,12 +22,12 @@ pagination_prev: null
 ---
 
 <details>
-  <summary><b>Unpublished Experiments</b></summary>
+  <summary><b>See what's coming next!</b></summary>
 
-| Sl.No. | Aim of the Experiment | URL | DOE | DOS |
-| :---:  | :-------------------- | :-: | :-: | :-: |
-| `6` | To write SQL queries for data insertion and deletion | _ | `__/__/____` | `__/__/____` |
-| `7` | To write SQL queries for data updating | _ | `__/__/____` | `__/__/____` |
-| `8` | To write SQL queries for aggregation functions in SQL | _ | `__/__/____` | `__/__/____` |
+| Sl.No. | Aim of the Experiment |
+| :---:  | :-------------------- |
+| `6` | To write SQL queries for data insertion and deletion |
+| `7` | To write SQL queries for data updating |
+| `8` | To write SQL queries for aggregation functions in SQL |
 
 </details>
