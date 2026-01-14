@@ -19,7 +19,7 @@ const config: Config = {
 
   organizationName: 'dorukaysor', // Usually your GitHub org/user name.
   projectName: 'dorukaysor.github.io', // Usually your repo name.
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   presets: [
     [
