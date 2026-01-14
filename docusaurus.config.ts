@@ -14,7 +14,7 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://dorukaysor.github.io',
+  url: 'https://doruklabs.netlify.app', // Your website URL
   baseUrl: '/',
 
   organizationName: 'dorukaysor', // Usually your GitHub org/user name.
